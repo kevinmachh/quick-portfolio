@@ -3,7 +3,8 @@ logo: "/images/DSC02534insta.png?raw=true" # your photo (or logo) here
 bold:
 - About Me
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
+  About Me
+  <br><br>
   Currently @ Seattle Pacific University
   <br><br>
   Bachelor of Science: Computer Science, Graduation 2021
