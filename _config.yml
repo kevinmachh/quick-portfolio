@@ -8,12 +8,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Software Engineer 
   <br><br>
-  description: >
-    I am interested in full-stack development along with understanding the basic needs of individuals 
-    and progressing that forward by creating application and technology that will enrich their lives. 
-    I hope to make video games that I will be educational while providing an entertaining factor. 
-    I currently play games myself such as League of Legends, Call of Duty: Modern Warfare, and Super Smash Bros. Ultimate. 
-
+  
+  I am interested in full-stack development along with understanding the basic needs of individuals 
+  and progressing that forward by creating application and technology that will enrich their lives. 
+  I hope to make video games that I will be educational while providing an entertaining factor. 
+  I currently play games myself such as League of Legends, Call of Duty: Modern Warfare, and Super Smash Bros. Ultimate. 
+  
+  
   <a href="https://www.linkedin.com/in/kevin-mach/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
