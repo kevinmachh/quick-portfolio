@@ -18,7 +18,7 @@ This is a separate application from the student version of Education Express bec
 
 ---
 [Exploring Meteorite Data]
-<img src="images/INFO201Project.jpg?raw=true"/>
+<img src="images/INFO201Project.PNG?raw=true"/>
 Displays information about where meteorites have fallen in the U.S. This website was developed as a team that pulled data from NASA public resource on Kaggle as a CSV file.
 ---
 
