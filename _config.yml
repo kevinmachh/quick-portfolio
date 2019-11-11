@@ -1,6 +1,7 @@
 title: Kevin Mach # your name (or website title) here
 logo: "/images/DSC02534insta.png?raw=true" # your photo (or logo) here
-<b>About Me<b>
+about: >
+  <b>About Me<b>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Currently @ Seattle Pacific University
