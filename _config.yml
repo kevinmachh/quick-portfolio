@@ -1,11 +1,13 @@
 title: Kevin Mach # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/DSC02534insta.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Currently @ Seattle Pacific University
   <br><br>
-  Second description 
+  Bachelor of Science: Computer Science, Graduation 2021
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Software Engineer 
+  <br><br>
+  <a href="https://www.linkedin.com/in/kevin-mach/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
