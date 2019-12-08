@@ -2,10 +2,8 @@
 
 ---
 
-### Projects
-
-#### Education Express
-
+### Education Express
+(January 2019 - March 2019)
 <img src="images/INFO200ss1.PNG?raw=true"/>
 <img src="images/INFO200ss2.PNG?raw=true"/>
 
