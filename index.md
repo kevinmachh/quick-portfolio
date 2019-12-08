@@ -3,7 +3,7 @@
 ---
 
 ### Education Express
-(January 2019 - March 2019)
+(January 2017 - March 2017)
 - Curated an education app that is a token based progression system with customizable avatars that was included in their story problems.
 - User Research on students with attention deficit problems
 - Team Project with four people for a class final project
@@ -20,13 +20,16 @@ An app for students that is catered toward kids with autism. We did case studies
 #### Education Express (Teacher View)
 <img src="images/INFO200teach.PNG?raw=true"/>
 
-This is a separate application from the student version of Education Express because to manage the students interaction with the application and to view their progress on the application. The application allows the teacher to enable more features like different accessibility features, printing certificates, and view their progress in the curriculums.
-Applications used: Figma, Invision
-
 ---
 #### Exploring Meteorite Data
+(January 2017 - March 2017)
+- Displays information about where meteorites have fallen in the U.S. 
+- Pulled data from NASA public resource on Kaggle as a CSV file.
+- Team Project with four people for a class final project
+- Role: Programmer for R
+- Applications used: R Studio, Shiny web app
+
 <img src="images/INFO201Project.PNG?raw=true"/>
 
-Displays information about where meteorites have fallen in the U.S. This website was developed as a team that pulled data from NASA public resource on Kaggle as a CSV file. The information was compiled using R Studio code.
+ This website was developed as a team that  The information was compiled using R Studio code.
 
-Applications used: R Studio, Shiny web app
