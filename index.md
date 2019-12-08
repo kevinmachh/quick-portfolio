@@ -2,10 +2,19 @@
 
 ---
 
+### Ruby Scanner Parser
+(September 2019 - November 2019)
+- Course Project
+  - Seattle Pacific University, Winter 2017 (Instructor: Carlos Arias Arevalo)
+- Grammar lexical and syntax analysis, indicates any lexical or syntax errors
+- Follows grammar given by assignment and generates tokens based on elements
+- Applications used: Microsoft Visual Studio
+
+
 ### Education Express
 (January 2017 - March 2017)
 - Course Project
-  - INFO 200, Winter 2017
+  - UW Seattle INFO 200, Winter 2017 (Instructor: Scott Baker)
 - Curated an education app that is a token based progression system with customizable avatars that was included in their story problems.
 - User Research on students with attention deficit problems
 - Team Project with four people for a class final project
@@ -26,7 +35,7 @@ An app for students that is catered toward kids with autism. We did case studies
 #### Exploring Meteorite Data
 (January 2017 - March 2017)
 - Course Project
-  - INFO 200, Winter 2017
+  - UW Seattle INFO 200, Winter 2017
 - Displays information about where meteorites have fallen in the U.S. 
 - Pulled data from NASA public resource on Kaggle as a CSV file.
 - Team Project with four people for a class final project
