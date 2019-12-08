@@ -10,7 +10,7 @@
 - First time using TypeScript, no knowledge of JavaScript
 - Applications used: Microsoft Visual Studio
 - Preview of code displayed below (not fully displayed)
-<img src="images/tictactoe.png?raw=true" height="75%" width="75%"/>
+<img src="images/tictactoe.png?raw=true" height="100%" width="100%"/>
 
 ### Ruby Scanner Parser
 (October 2019)
@@ -20,7 +20,7 @@
 - Follows grammar given by assignment and generates tokens based on elements
 - First time using Ruby Programming Language (self-taught in a week)
 - Applications used: Microsoft Visual Studio
-<img src="images/ruby-parser.png?raw=true" height="75%" width="75%"/>
+<img src="images/ruby-parser.png?raw=true" height="100%" width="100%"/>
 
 ### Education Express
 (January 2017 - March 2017)
@@ -35,12 +35,12 @@
 An app for students that is catered toward kids with autism. We did case studies on students with autism at Washington Elementary. We learned that students with autism need a way to refocus their attention onto the subject. We solved this problem by having a token based progression system with customizable avatars that was included in their story problems.
 
 
-<img src="images/INFO200ss1.PNG?raw=true" height="75%" width="75%"/>
-<img src="images/INFO200ss2.PNG?raw=true" height="75%" width="75%"/>
+<img src="images/INFO200ss1.PNG?raw=true" height="100%" width="100%"/>
+<img src="images/INFO200ss2.PNG?raw=true" height="100%" width="100%"/>
 
 ---
 #### Education Express (Teacher View)
-<img src="images/INFO200teach.PNG?raw=true" height="75%" width="75%"/>
+<img src="images/INFO200teach.PNG?raw=true" height="100%" width="100%"/>
 
 ---
 #### Exploring Meteorite Data
@@ -53,4 +53,4 @@ An app for students that is catered toward kids with autism. We did case studies
 - Role: Programmer using R
 - Applications used: R Studio, Shiny web app
 
-<img src="images/INFO201Project.PNG?raw=true" height="75%" width="75%"/>
+<img src="images/INFO201Project.PNG?raw=true" height="100%" width="100%"/>
