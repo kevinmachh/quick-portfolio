@@ -9,7 +9,7 @@
 - Grammar lexical and syntax analysis, indicates any lexical or syntax errors
 - Follows grammar given by assignment and generates tokens based on elements
 - Applications used: Microsoft Visual Studio
-<img src="images/ruby-parser.PNG?raw=true" height="50%" width="50%"/>
+<img src="images/ruby-parser.png?raw=true" height="50%" width="50%"/>
 
 ### Education Express
 (January 2017 - March 2017)
