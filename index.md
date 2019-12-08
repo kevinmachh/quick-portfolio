@@ -1,6 +1,20 @@
 ## Portfolio
 
 ---
+
+### Ruby Scanner Parser
+(October 2019)
+- Course Project
+  - Seattle Pacific University, Winter 2017 (Instructor: Carlos Arias Arevalo)
+- Grammar lexical and syntax analysis, indicates any lexical or syntax errors
+- Follows grammar given by assignment and generates tokens based on elements
+- First time using Ruby Programming Language (self-taught in a week)
+- Applications used: Microsoft Visual Studio
+
+<img src="images/ruby-parser.png?raw=true" height="100%" width="100%"/>
+
+---
+
 ### TypeScript TicTacToe Game
 (April 2019)
 - Course Project
@@ -13,16 +27,7 @@
 
 <img src="images/tictactoe.png?raw=true" height="100%" width="100%"/>
 
-### Ruby Scanner Parser
-(October 2019)
-- Course Project
-  - Seattle Pacific University, Winter 2017 (Instructor: Carlos Arias Arevalo)
-- Grammar lexical and syntax analysis, indicates any lexical or syntax errors
-- Follows grammar given by assignment and generates tokens based on elements
-- First time using Ruby Programming Language (self-taught in a week)
-- Applications used: Microsoft Visual Studio
-
-<img src="images/ruby-parser.png?raw=true" height="100%" width="100%"/>
+---
 
 ### Education Express
 (January 2017 - March 2017)
@@ -38,10 +43,12 @@
 <img src="images/INFO200ss2.PNG?raw=true" height="100%" width="100%"/>
 
 ---
+
 #### Education Express (Teacher View)
 <img src="images/INFO200teach.PNG?raw=true" height="100%" width="100%"/>
 
 ---
+
 #### Exploring Meteorite Data
 (January 2017 - March 2017)
 - Course Project
