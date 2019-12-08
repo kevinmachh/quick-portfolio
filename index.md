@@ -4,8 +4,10 @@
 
 ### Education Express
 (January 2019 - March 2019)
-- f
-- f
+- Curated an education app that is a token based progression system with customizable avatars that was included in their story problems.
+- User Research on students with attention deficit problems
+- Team Project with four people for a class final project
+- Role: Main researcher, framework/UI designer
 - Applications used: Figma, Invision
 
 An app for students that is catered toward kids with autism. We did case studies on students with autism at Washington Elementary. We learned that students with autism need a way to refocus their attention onto the subject. We solved this problem by having a token based progression system with customizable avatars that was included in their story problems.
