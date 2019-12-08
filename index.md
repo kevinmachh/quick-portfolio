@@ -18,7 +18,7 @@ An app for students that is catered toward kids with autism. We did case studies
 
 ---
 #### Education Express (Teacher View)
-<img src="images/INFO200teach.PNG?raw=true" height="75%" width="57%"/>
+<img src="images/INFO200teach.PNG?raw=true" height="75%" width="75%"/>
 
 ---
 #### Exploring Meteorite Data
