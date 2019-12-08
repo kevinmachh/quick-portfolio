@@ -18,7 +18,7 @@ An app for students that is catered toward kids with autism. We did case studies
 
 ---
 #### Education Express (Teacher View)
-<img src="images/INFO200teach.PNG?raw=true"/>
+<img src="images/INFO200teach.PNG?raw=true" height="50%" width="50%"/>
 
 ---
 #### Exploring Meteorite Data
@@ -29,7 +29,7 @@ An app for students that is catered toward kids with autism. We did case studies
 - Role: Programmer for R
 - Applications used: R Studio, Shiny web app
 
-<img src="images/INFO201Project.PNG?raw=true"/>
+<img src="images/INFO201Project.PNG?raw=true" height="50%" width="50%"/>
 
  This website was developed as a team that  The information was compiled using R Studio code.
 
