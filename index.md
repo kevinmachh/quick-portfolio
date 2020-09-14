@@ -58,6 +58,6 @@
 - Team Project with four people for a class final project
 - Role: Programmer using R
 - Applications used: R Studio, Shiny web app
-- (Website){https://kevinmachh.shinyapps.io/Info201-Final-Project-Group-5-AF/}
+- https://kevinmachh.shinyapps.io/Info201-Final-Project-Group-5-AF/
 
 <img src="images/INFO201Project.PNG?raw=true" height="100%" width="100%"/>
