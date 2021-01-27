@@ -1,6 +1,20 @@
 ## Portfolio
 
 ---
+### IT Test Engineer
+(June 2020 - Sept 2020)
+- Company: Puget Sound Energy
+  - Manager: Michael Garcia, Mentor: Curtis Laird
+- Obtaining testing/quality assurance metrics from Azure DevOps and Visual Studio in C/C++ using a set of disparate tools
+like Power BI to aggregate this data and provide centralized visualizations of it for the development and leadership teams.
+- Executes existing test plans and reports results to ensure quality of components with oversight from Sr. QA Engineer.
+- Participated in sprint planning, daily stand-ups for the teams, and communication for the stories, tasks, and bugs for my
+work utilizing Software Development Life Cycle and Scaled Agile.
+- Applications used: Visual Studio, Azure DevOps, PowerBI, Tricentis Tosca, BrowserStack
+
+<img src="images/pselogo.jpg?raw=true" height="100%" width="100%"/>
+
+---
 
 ### Ruby Scanner Parser
 (October 2019)
