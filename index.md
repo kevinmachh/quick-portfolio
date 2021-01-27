@@ -14,6 +14,7 @@ work utilizing Software Development Life Cycle and Scaled Agile.
 - Applications used: Visual Studio, Azure DevOps, PowerBI, Tricentis Tosca, BrowserStack
 
 <img src="images/pselogo.jpg?raw=true" height="100%" width="100%"/>
+(Source: https://www.pse.com/) 
 
 ---
 
@@ -27,7 +28,7 @@ work utilizing Software Development Life Cycle and Scaled Agile.
 - Applications used: Microsoft Visual Studio
 
 <img src="images/ruby-parser.png?raw=true" height="100%" width="100%"/>
-(Source: https://www.pse.com/) 
+
 ---
 
 ### TypeScript TicTacToe Game
