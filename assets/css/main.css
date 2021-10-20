@@ -21,8 +21,6 @@ div.majors {
 }
 
 div.row {
-	background: lightgray;
-	border-radius: 25px;
   display: table-cell;
 }
 
@@ -115,11 +113,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #800000;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #a40606 15%, #d98324 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #a40606 15%, #d98324 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #a40606 15%, #d98324 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #a40606 15%, #d98324 85%);
+		background-color: #a40606;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, black 15%, #a40606 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, black 15%, #a40606 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, black 15%, #a40606 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, black 15%, #a40606 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
